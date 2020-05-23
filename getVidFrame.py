@@ -3,7 +3,7 @@ import cv2
 # 영상의 의미지를 연속적으로 캡쳐할 수 있게 하는 class
 vidcap = cv2.VideoCapture("C:\\Users\\Haemin\\Documents\\_choiiis\\balanchew\\baby_vid.mp4")
 count = 0
-
+print("start")
 while (vidcap.isOpened()):
     # read()는 grab()와 retrieve() 두 함수를 한 함수로 불러옴
     # 두 함수를 동시에 불러오는 이유는 프레임이 존재하지 않을 때
