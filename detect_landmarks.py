@@ -21,8 +21,8 @@ predictor = dlib.shape_predictor('shape_predictor_68_face_landmarks.dat')
 
 # create VideoCapture object (input the video)
 # 0 for web camera
-#vid_in = cv2.VideoCapture(0)
-vid_in = cv2.VideoCapture("baby_vid.mp4")
+vid_in = cv2.VideoCapture(0)
+#vid_in = cv2.VideoCapture("baby_vid.mp4")
 
 # capture the image in an infinite loop -> make it looks like a video
 with open("test.json", "w") as json_file:
