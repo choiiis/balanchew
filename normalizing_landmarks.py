@@ -43,4 +43,15 @@ with open("right_8.json", "r") as f:
     y.to_csv('normalized_y.csv', sep = ',', na_rep = 'NaN', index=False)
 
 
+        # nose = math.sqrt(((xlist[29] - xlist[30]) ** 2) + \
+        #                   ((ylist[29] - ylist[30]) ** 2))
+        # print("nose origin : " + str(nose))
+
+        # nose_n = math.sqrt(((normalized_x[29] - normalized_x[30]) ** 2) + \
+        #                  ((normalized_y[29] - normalized_y[30]) ** 2))
+        # print("nose origin : " + str(nose) + "          nose after normalizing : " + str(nose_n))
+
+        # print("nose origin : " + str(xlist[30]) + "         " + str(ylist[30]))
+        # print("nose normalized : " + str(normalized_x[30]) + "         " + str(normalized_y[30]))
+
 
