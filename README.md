@@ -30,12 +30,10 @@
 
 ### Final Report
 
-최종보고서 : balanchew repository의 /report/balanchew-최종보고서.pdf
+최종보고서 : ![balanchew-최종보고서.pdf](/report/balanchew-최종보고서.pdf)
 
 #### 일부 preview  
 
-![project_preview2](/report/report12.png) ![project_preview3](/report/report13.png) ![project_preview4](/report/report14.png)  
-![project_preview5](/report/report18.png) ![project_preview6](/report/report19.png) ![project_preview7](/report/report23.png)  
-![project_preview8](/report/report24.png) ![project_preview9](/report/report29.png) ![project_preview10](/report/report30.png)
-
-<img src="/report/report29.png" alt="project_preview9" width="60%">
+![project_preview2](/report/report012.png) ![project_preview3](/report/report013.png) ![project_preview4](/report/report014.png)  
+![project_preview5](/report/report018.png) ![project_preview6](/report/report019.png) ![project_preview7](/report/report023.png)  
+![project_preview8](/report/report024.png) ![project_preview9](/report/report029.png) ![project_preview10](/report/report030.png)
